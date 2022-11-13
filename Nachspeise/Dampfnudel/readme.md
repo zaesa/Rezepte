@@ -16,9 +16,9 @@ Hefeteig herstellen und in Karamellsose dünsten.
   * Wartezeit: 0:30h
 
 ## Werkzeug
-Topf mit Glasdeckel [2 Stück]
-Herdplatte mit Stufeneinteilung 1..9 [2 Stück]
-Kochlöffel oder Schneebesen
+* Topf mit Glasdeckel [2 Stück]
+* Herdplatte mit Stufeneinteilung 1..9 [2 Stück]
+* Kochlöffel oder Schneebesen
 
 ## Zutaten
 ### Nudeln
