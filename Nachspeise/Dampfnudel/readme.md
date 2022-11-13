@@ -1,4 +1,5 @@
 # 24 Dampfnudeln (zB für einen Abend in der Kitchen)
+<img src="photos/12_Querschnitt.jpg" width="330">
 nach einem Rezept von cb
 
 #### Menge
@@ -59,6 +60,5 @@ Herdplatte mit Stufeneinteilung 1..9 [2 Stück]
 13. 30min ungestört dünsten lassen, ca. 95°, erkennbar daran, dass die Karamellsose leicht blubbert. 
 14. Das Garende ist erreicht, wenn die Nudeln nicht weiter wachsen oder gegen den Glasdeckel drücken 
 <img src="photos/11_Endprodukt.jpg" width="330">
-<img src="photos/12_Querschnitt.jpg" width="330">
 
 Optische Kontrolle durch den Glasdeckel möglich, öffnen des Deckel während des Garvorgangs stört die Vergrößerung erheblich (verification needed)
