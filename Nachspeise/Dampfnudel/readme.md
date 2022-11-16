@@ -62,4 +62,4 @@ Hefeteig herstellen und in Karamellsose dünsten.
 1. Das Garende ist erreicht, wenn die Nudeln nicht weiter wachsen oder gegen den Glasdeckel drücken 
 1. <img src="photos/11_Endprodukt.jpg" width="330">
 
-Optische Kontrolle durch den Glasdeckel möglich, öffnen des Deckel während des Garvorgangs stört die Vergrößerung erheblich (verification needed). Vanillesose als addon möglich
+Optische Kontrolle durch den Glasdeckel möglich, öffnen des Deckel während des Garvorgangs stört die Vergrößerung erheblich. Vanillesoße als addon möglich
